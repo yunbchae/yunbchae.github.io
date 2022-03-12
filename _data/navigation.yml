@@ -1,0 +1,7 @@
+# main links
+main:
+  - auto_categories: true
+  - title: "About"
+    url: /about/
+  - title: "Category"
+    url: /categories/
